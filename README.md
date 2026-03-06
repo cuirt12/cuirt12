@@ -1,4 +1,8 @@
+﻿<p align="center">
+  <img src="./assets/doro_computer.jpg" alt="doro_computer" />
+</p>
 
+---
 
 > 悟已往之不谏，知来者之可追。 实迷途其未远，觉今是而昨非。
 
@@ -12,28 +16,28 @@
 - 💻 MSc: Information Engineering. in CUHK
 - 🐍 Now I'm learning Math, Python, AI and LLMs.
 - 💌 Email: bottleofwater12@163.com
-- 📚 My Blog: TODO...
+- 📚 My Blog: *TODO...*
 
 
 # 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-circle&logo=Jupyter)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-circle&logo=PyTorch)
 ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
-![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
+![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 
-More on the way🏃‍♂️...
+*More on the way*🏃‍♂️...
 
 
 # 🎫 Projects
-TODO...
-
-
+*TODO...*
 
 
 # 📚 Recent Blog
-TODO...
+*TODO...*
 
 
 
