@@ -2,8 +2,6 @@
   <img src="./assets/doro_computer.jpg" alt="doro_computer" />
 </p>
 
----
-
 > 悟已往之不谏，知来者之可追。 实迷途其未远，觉今是而昨非。
 
 > Fret not over bygones, and the forward journey take. Only a short distance have I gone astray, and I know today I am right, if yesterday was a complete mistake.
