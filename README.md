@@ -14,20 +14,28 @@
 - 👷‍♂️ B.Eng: Civil Engineering (Water Supply and Drainage). in CQU
 - 💻 B.S: Data Science. in CAU
 - 💻 MSc: Information Engineering. in CUHK
-- 🐍 Now I'm learning Math, Python, AI and LLMs.
-- 💌 Email: bottleofwater12@163.com
+- 👨‍💻 Now I'm learning Math, Python, AI and LLMs.
+- 💌 Email: *bottleofwater12@163.com*
 - 📚 My Blog: *TODO...*
+
+You can also find me on (Clickable)：
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?style=plastic&logo=bilibili&logoColor=white)](这里换成你的B站主页链接)
+[![rednote](https://img.shields.io/badge/RedNote-FF2442?style=plastic&logo=xiaohongshu&logoColor=white)](这里换成你的小红书主页链接)
+
 
 
 # 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
-![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-circle&logo=Jupyter)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-circle&logo=PyTorch)
-![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
-![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
-![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 
 *More on the way*🏃‍♂️...
 
